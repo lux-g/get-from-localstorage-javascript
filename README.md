@@ -9,3 +9,5 @@ and put it in an html tag
 - next i append allProducts to the container which I had previously made
 
 - then I created a button and assigned a click to it which when clicked will call the getItmes function and then displaying the data to the page
+
+see it here-->https://codesandbox.io/s/js-localstorage-and-template-literals-7njgq?file=/src/main.js:0-751
